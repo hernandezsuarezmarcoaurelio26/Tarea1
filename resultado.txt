@@ -1,8 +1,4 @@
-========================================
-RESULTADO DE LA EJECUCION
-========================================
-
-========== PROCESO PADRE ==========
+PROCESO PRINCIPAL: Numeros del 1 al 10000
 1
 2
 3
@@ -10004,9 +10000,7 @@ RESULTADO DE LA EJECUCION
 9999
 10000
 
-========== FIN PROCESO PADRE ==========
-
-========== PROCESO HIJO ==========
+HILO: Numeros del 10000 al 1
 10000
 9999
 9998
@@ -20008,4 +20002,4 @@ RESULTADO DE LA EJECUCION
 2
 1
 
-========== FIN PROCESO HIJO ==========
+Ambos recorridos han terminado.
